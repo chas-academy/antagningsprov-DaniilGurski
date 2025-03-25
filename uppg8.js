@@ -31,7 +31,7 @@ function uppg8() {
     });
   };
 
-  return showOlderPeople(people);
+  showOlderPeople(people);
 }
 
 module.exports = { uppg8 };
