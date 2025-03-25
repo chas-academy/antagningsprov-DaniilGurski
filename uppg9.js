@@ -18,7 +18,7 @@ function uppg9() {
     });
   };
 
-  return sort(numbers);
+  sort(numbers);
 }
 
 module.exports = { uppg9 };
