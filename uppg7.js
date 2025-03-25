@@ -1,4 +1,4 @@
-function uppg7(num1, num2) {
+function uppg7() {
   // skapa en funktion som tar in två tal som argument
   // funktionen ska returnera summan av talen
   // kalla på funktionen i en return statement
